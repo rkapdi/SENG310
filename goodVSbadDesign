@@ -1,0 +1,30 @@
+Seven Fundamentals Principles of Interaction
+
+1. Discoverability
+	- Ability to look at interface and determine what actions are possible and how to perform them.
+2. Affordances
+	- Relationship between properties of artifact and capabilities of agent that determine how artifact could be used.
+3. Signifiers
+	- Communication mechanism that inform the user of the appropraite behaviour.
+	- Sometimes percieved affordances same as signifiers.
+4. Mapping
+	- Relationship between controls and corresponding actions.
+	- Spatial correspondence is helpful.
+	- Some may emerge from cultural practices.
+5. Feedback	
+	- Shows full and continous information about the results of action and current state of technology.
+	- Indicators should be used to show current state.
+6. Conceptual Models
+	- Simple explanations(typically simple) we form in our head about how a technology works.
+	- Some form of documentation is needed to prevent misconceptions.
+7. Constraints
+	- Constraints set limitations for how people interact with the technology.
+	- Four types:
+		1. Physical: dimensions of object limit/determine interaction
+		2. Cultural: English cultures read left to right while Arabic cultures are reversed
+		3. Semantic: Learned meanings
+		4. Logical: Things we can do using our logic
+
+HOMEWORK:
+	1. Post example of good design and explain w/c design principles are met.
+	2. Post example of bad design and explain w/c design principles are met.
